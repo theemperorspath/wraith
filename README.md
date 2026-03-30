@@ -22,7 +22,7 @@
 |:-:|:-:|
 | ![Before](https://github.com/user-attachments/assets/cf2b3b9b-2271-422a-b7c8-8022893037e5) | ![After](https://github.com/user-attachments/assets/b1022c29-f12e-4615-b390-6ea9f7c2c7f0) |
 
-> Same email, same image URL — the code updates automatically when it expires. No resending required.
+> Same email, same image URL — the code updates automatically when it expires. No resending required. (click images to see in full size)
 
 ---
 
