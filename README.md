@@ -1,4 +1,4 @@
-# CodePhisher
+<h1 align="center">CodePhisher: Advanced Persistant Entra ID Phishing Tool</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python 3.8+">
