@@ -1,13 +1,9 @@
-<h1 align="center">CodePhisher: Advanced Persistant Entra ID Phishing Tool</h1>
+<h1 align="center">CodePhisher: OAuth Device Code Phishing Framework with Dynamic Image Based Delivery</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python 3.8+">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
   <img src="https://img.shields.io/badge/version-2.0.0-cyan.svg" alt="Version">
-</p>
-
-<p align="center">
-  <b>OAuth Device Code Phishing Framework with Dynamic Code Image Delivery</b>
 </p>
 
 <p align="center">
