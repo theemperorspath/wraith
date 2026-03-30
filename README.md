@@ -18,7 +18,7 @@
 
 ## What is this?
 
-DeviceCode Phisher exploits Microsoft's OAuth device code authentication flow to capture access tokens that **bypass MFA entirely**. It chains domain spoofing with device code phishing to compromise Microsoft Entra ID / M365 accounts from an external attacker perspective.
+Code Phisher exploits Microsoft's OAuth device code authentication flow to capture access tokens that **bypass MFA entirely**. It chains domain spoofing with device code phishing to compromise Microsoft Entra ID / M365 accounts from an external attacker perspective.
 
 ### The attack chain
 
