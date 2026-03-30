@@ -15,6 +15,12 @@
 </p>
 
 ---
+## What is this?
+
+CodePhisher exploits Microsoft's OAuth device code authentication flow to capture access tokens that **bypass MFA entirely**. It chains domain spoofing with device code phishing to compromise Microsoft Entra ID / M365 accounts from an external attacker perspective.
+
+![CodePhisher](https://github.com/user-attachments/assets/76ec8386-1402-411d-bdef-cce9463c6fec)
+---
 
 ### Dynamic Code — One Email, Auto-Refreshing
 
@@ -23,14 +29,6 @@
 | ![Before](https://github.com/user-attachments/assets/cf2b3b9b-2271-422a-b7c8-8022893037e5) | ![After](https://github.com/user-attachments/assets/b1022c29-f12e-4615-b390-6ea9f7c2c7f0) |
 
 > Same email, same image URL — the code updates automatically when it expires. No resending required. (click images to see in full size)
-
----
-
-## What is this?
-
-CodePhisher exploits Microsoft's OAuth device code authentication flow to capture access tokens that **bypass MFA entirely**. It chains domain spoofing with device code phishing to compromise Microsoft Entra ID / M365 accounts from an external attacker perspective.
-
-![CodePhisher](https://github.com/user-attachments/assets/76ec8386-1402-411d-bdef-cce9463c6fec)
 
 
 ### The attack chain
